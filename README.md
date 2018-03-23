@@ -2,6 +2,8 @@
 
 Docker running Laravel demo.
 
+![screenshot](https://github.com/pipizhang/laravel-docker/blob/master/screenshots/01.png)
+
 ## Install prerequisites
 
 * [Docker](https://docs.docker.com/engine/installation/)
