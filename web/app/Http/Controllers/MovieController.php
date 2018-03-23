@@ -2,13 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Movie;
+
 class MovieController extends Controller
 {
     public function all() {
-        return [
-            'Wonder Woman',
-            'Star Wars: The Last jedi',
-            'Logan'
-        ];
+        return Movie::all();
     }
 }
