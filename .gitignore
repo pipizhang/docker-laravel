@@ -5,5 +5,4 @@ Dockerfile.tmp
 *.sw?
 
 # App
-vendor
 data/db
